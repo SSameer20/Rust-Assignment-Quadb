@@ -1,7 +1,6 @@
 [package]
-name = "question2"
+name = "question4"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-std = "1.0"
