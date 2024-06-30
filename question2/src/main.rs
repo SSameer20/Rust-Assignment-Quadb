@@ -9,5 +9,5 @@ fn main() {
         }
 
     }
-    println!("The target {} Element first occurence is {}", target, ans);
+    println!("The {} is first occured at position {}", target, ans);
 }
